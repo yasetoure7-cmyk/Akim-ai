@@ -1,0 +1,6 @@
+{
+  "name": "AKIM AI",
+  "description": "A mobile-friendly, bilingual (English & French) AI companion for everyday questions, schoolwork, songs, jokes, and natural conversation. 100% free and easy to use.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
